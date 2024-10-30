@@ -1,8 +1,8 @@
 {
-    "name": "Bro Coin",
-    "symbol": "BRO",
-    "description": "Coin for Bros",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "name": "Dokicoin",
+    "symbol": "DOKI",
+    "description": "In honor of Doki the Shih Tzu",
+    "image": "https://raw.githubusercontent.com/lipe993/vigilant-octo-waffle/NYCS-bull-trans-D-Std.svg.png",
     "attributes": [
       {
         "trait_type": "Item",
