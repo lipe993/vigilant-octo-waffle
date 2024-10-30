@@ -2,7 +2,7 @@
     "name": "Dokicoin",
     "symbol": "DOKI",
     "description": "In honor of Doki the Shih Tzu",
-    "image": "https://raw.githubusercontent.com/lipe993/vigilant-octo-waffle/NYCS-bull-trans-D-Std.svg.png",
+    "image": "https://raw.githubusercontent.com/lipe993/vigilant-octo-waffle/refs/heads/main/NYCS-bull-trans-D-Std.svg.png",
     "attributes": [
       {
         "trait_type": "Item",
